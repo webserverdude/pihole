@@ -1,31 +1,35 @@
+# Custom Pi-hole blocklist to block YouTube, Roblox, TikTok
+# Format: StevenBlack-style hosts file
+# Last updated: 2025-06-08
+
 # YouTube
-youtube.com
-www.youtube.com
-m.youtube.com
-ytimg.com
-i.ytimg.com
-youtube-nocookie.com
-youtube.googleapis.com
-googlevideo.com
-redirector.googlevideo.com
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 ytimg.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 googlevideo.com
+0.0.0.0 redirector.googlevideo.com
 
 # Roblox
-roblox.com
-www.roblox.com
-api.roblox.com
-friends.roblox.com
-games.roblox.com
-presence.roblox.com
-users.roblox.com
-avatar.roblox.com
-web.roblox.com
+0.0.0.0 roblox.com
+0.0.0.0 www.roblox.com
+0.0.0.0 api.roblox.com
+0.0.0.0 friends.roblox.com
+0.0.0.0 games.roblox.com
+0.0.0.0 presence.roblox.com
+0.0.0.0 users.roblox.com
+0.0.0.0 avatar.roblox.com
+0.0.0.0 web.roblox.com
 
 # TikTok
-tiktok.com
-www.tiktok.com
-m.tiktok.com
-api.tiktok.com
-v16.tiktokcdn.com
-v19.tiktokcdn.com
-tiktokcdn.com
-tiktokcdn-us.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 api.tiktok.com
+0.0.0.0 v16.tiktokcdn.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn-us.com
