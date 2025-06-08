@@ -1,0 +1,31 @@
+# YouTube
+youtube.com
+www.youtube.com
+m.youtube.com
+ytimg.com
+i.ytimg.com
+youtube-nocookie.com
+youtube.googleapis.com
+googlevideo.com
+redirector.googlevideo.com
+
+# Roblox
+roblox.com
+www.roblox.com
+api.roblox.com
+friends.roblox.com
+games.roblox.com
+presence.roblox.com
+users.roblox.com
+avatar.roblox.com
+web.roblox.com
+
+# TikTok
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+api.tiktok.com
+v16.tiktokcdn.com
+v19.tiktokcdn.com
+tiktokcdn.com
+tiktokcdn-us.com
